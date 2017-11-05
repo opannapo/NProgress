@@ -96,5 +96,4 @@ public class MainActivity extends AppCompatActivity {
 ### 4. Output
 Youtube : https://youtu.be/NgM9-3_7ElM
 
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/NgM9-3_7ElM" frameborder="0" gesture="media" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/NgM9-3_7ElM/0.jpg)](https://www.youtube.com/watch?v=NgM9-3_7ElM)
